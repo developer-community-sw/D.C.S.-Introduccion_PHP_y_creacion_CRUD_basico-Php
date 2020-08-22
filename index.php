@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <?php
-        require("/Contenido_del_curso/5-variables");
-    ?>
-</body>
-</html>
+<?php
+  require("/Contenido_del_curso/5-variables");
+?>
